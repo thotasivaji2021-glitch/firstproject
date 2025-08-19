@@ -1,0 +1,42 @@
+#header{
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    border-radius: 5px;
+}
+#about{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+   
+}
+.option{
+      
+        list-style: none;
+        color: rgb(58, 43, 43);
+        
+}
+#heading{
+    padding-left: 20px;
+}
+#search{
+    height: 30px;
+    width: 400px;
+    margin-top: 28px;
+    margin-left: 20px;
+
+}
+.order{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+#btn{
+    height: 40px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 90px;
+    border-radius: 10px;
+
+
+}
